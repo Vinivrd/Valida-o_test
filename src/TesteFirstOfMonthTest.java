@@ -13,7 +13,6 @@ public class TesteFirstOfMonthTest {
 
     //Janeiro
     //before -> new Cal();
-    //bla
     @Test
     public void TesteJan() {
         int mesJan = cal.firstOfMonth(1, 2024);
